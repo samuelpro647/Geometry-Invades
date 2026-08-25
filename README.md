@@ -24,3 +24,20 @@ Após as alterações, o projeto foi publicado no GitHub e disponibilizado por m
 - GitHub
 - GitHub Pages
 
+## Instalação e USo
+
+Para começar a jogar, basta apenas fazer o download do arquivo principal do game disponibilizado neste repositório, abrir usando um navegador web e dar o play ou joga pelo link do jogo que redirecionara para o jogo direta para a web.
+
+### Como jogar
+
+#### Computador
+
+quando iniciar o jogo vai te direcionar para o menu, caso você já começa a jogar os comandos pre programado serão 
+| Ação    | Controle |
+|---|---  |
+
+| Mover   | W, A, S, D ou setas |
+| Mirar   | Mouse |
+| Impulso | Espaço |
+| Pausar  | P |
+![menu do jogo](aa.png)
