@@ -1,15 +1,15 @@
-#Geometry-Invades
+# Geometry-Invades
 
-**Nome:** Samuel G.S.Rosa
-**Turma:** 2º Ano TEC — Desenvolvimento de Sistemas  
-**Instituição:** SENAI  
-**Ano:** 2026
+***Nome:*** Samuel G.S.Rosa
+***Turma:*** 2º Ano TEC — Desenvolvimento de Sistemas  
+***Instituição:*** SENAI  
+***Ano:*** 2026
 
-##Descrição 
+## Descrição 
 
 O jogo e parecido com o jogo asteroids de fliperama com diversos itens e inimigos e modos para desafiar o jogador com o objetivo de destruir os inimigos ate o maximo que você consegue sobreviver, o Geometry Invades e um jogo desenvolvido com a ajuda do meu professores Wallison Rocha e Erika Sardinha, que desenvolveu o jogo e passou para minha sala desenvolver melhorias para o jogo em HTML, CSS e Js.
 
-##Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo foi analisar o código-fonte de um jogo existente, compreender seu funcionamento e realizar modificações utilizando conceitos de desenvolvimento de sistemas.
 Após as alterações, o projeto foi publicado no GitHub e disponibilizado por meio do GitHub Pages.
@@ -37,3 +37,5 @@ quando iniciar o jogo vai te direcionar para o menu.
 
 antes de iniciar o jogo você pode ver e mudar algumas coisas como os controle e a configuração como as texturas o modo de dificuldade e etc.
 
+![configuração](2.PNG)
+![configuração](0825.gif)
