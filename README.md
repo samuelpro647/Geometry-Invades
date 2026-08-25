@@ -39,3 +39,6 @@ antes de iniciar o jogo você pode ver e mudar algumas coisas como os controle e
 
 ![configuração](2.PNG)
 ![configuração](0825.gif)
+
+O jogo também tem um modo multiplayer para que possa tentar chegar mais longe e divertir com seu amigo para ver que tem mais habilidades
+![multiplayer](0825(1).gif)
