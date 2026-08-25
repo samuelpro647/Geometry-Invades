@@ -33,6 +33,8 @@ Para começar a jogar, basta apenas fazer o download do arquivo principal do gam
 #### Computador
 
 quando iniciar o jogo vai te direcionar para o menu, caso você já começa a jogar os comandos pre programado serão 
+![menu do jogo](aa.png)
+
 | Ação    | Controle |
 |---|---  |
 
@@ -40,4 +42,4 @@ quando iniciar o jogo vai te direcionar para o menu, caso você já começa a jo
 | Mirar   | Mouse |
 | Impulso | Espaço |
 | Pausar  | P |
-![menu do jogo](aa.png)
+
